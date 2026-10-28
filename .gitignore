@@ -6,8 +6,12 @@ secrets/
 *.key
 *.log
 .DS_Store
+.venv/
+venv/
 __pycache__/
 .pytest_cache/
+.coverage
+*.pyc
 .terraform/
 *.tfstate
 *.tfstate.*
